@@ -8,5 +8,4 @@ Some pics of output result are shownn
 
 A DEMO  video of code is given below
 
-<video width="320" height="240" controls>
  src="bandicam 2024-04-03 02-03-44-382" type="video/mp4"
