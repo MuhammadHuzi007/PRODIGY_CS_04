@@ -6,8 +6,12 @@ Some pics of output result are shownn
 
 <img src="1.png" alt="1">
 
-A DEMO  video of code is given below
+A DEMO  video of code is given in file you can see it
 
- src="" type="video/mp4"
+For any type of help feel free to contact me
 
- <source src="bandicam 2024-04-03 02-03-44-382.mp4" type="video/mp4">
+Linkedin  https://www.linkedin.com/in/muhammad-huzaifa-anjum-a80aa0279/
+
+Instagram  https://www.instagram.com/shorttemperd007/
+
+ 
